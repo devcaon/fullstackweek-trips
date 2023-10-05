@@ -18,7 +18,7 @@ const TripSearch = () => {
           <DatePicker placeholderText='Data de ida' onChange={() =>{}} className='w-full'/>
           <CurrencyInput placeholder='Orçamento' className='w-full' />
         </div>
-        <Button>Buscar</Button>
+        <Button>Pesquisar</Button>
       </div>
     </div>
 
