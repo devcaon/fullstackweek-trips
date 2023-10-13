@@ -14,7 +14,8 @@ module.exports = {
         primary: '#590BD8',
         primaryLight: '#DDD5EA',
         primaryDark: '#312A4F',
-        primaryGray: '#BBBFBF'
+        primaryGray: '#BBBFBF',
+        waterWhite: '#F5F5F5'
       },
       textColor: {
         dark: '#717171',
